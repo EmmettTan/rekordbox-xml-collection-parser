@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DJ_PLAYLISTS Version="1.0.0">
+  <PRODUCT Name="rekordbox" Version="6.8.5" Company="AlphaTheta"/>
+  <COLLECTION Entries="15">
+    <TRACK TrackID="1" Name="Strobe (Original Mix)" Artist="Deadmau5"
+           Composer="Joel Zimmerman" Album="For Lack of a Better Name" Grouping="" Genre="Progressive House"
+           Kind="WAV File" Size="89765432" TotalTime="637" DiscNumber="1" TrackNumber="9"
+           Year="2009" AverageBpm="128.00" DateAdded="2020-01-15" BitRate="1411"
+           SampleRate="44100" Comments="Classic progressive track" PlayCount="50" Rating="255"
+           Location="file://localhost/Users/test/Music%20Library/Deadmau5/Strobe.wav"
+           Remixer="" Tonality="Fm" Label="Mau5trap" Mix="">
+      <TEMPO Inizio="0.043" Bpm="128.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="Drop" Type="0" Start="240.500" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="Breakdown" Type="0" Start="360.000" Num="1" Red="230" Green="50" Blue="50"/>
+      <POSITION_MARK Name="" Type="0" Start="480.000" Num="-1"/>
+    </TRACK>
+    <TRACK TrackID="2" Name="Your Mind (Original Mix)" Artist="Adam Beyer"
+           Composer="" Album="Drumcode" Grouping="" Genre="Techno"
+           Kind="AIFF File" Size="54321098" TotalTime="398" DiscNumber="0" TrackNumber="0"
+           Year="2018" AverageBpm="130.00" DateAdded="2020-03-20" BitRate="1411"
+           SampleRate="44100" Comments="" PlayCount="35" Rating="0"
+           Location="file://localhost/Users/test/Music/Techno/Adam_Beyer_Your_Mind.aiff"
+           Remixer="" Tonality="Gm" Label="Drumcode" Mix="">
+      <TEMPO Inizio="0.001" Bpm="130.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.001" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="30.000" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="60.000" Num="-1"/>
+    </TRACK>
+    <TRACK TrackID="3" Name="Doppler (Original Mix)" Artist="Charlotte de Witte"
+           Composer="" Album="" Grouping="" Genre="Techno"
+           Kind="MP3 File" Size="9876543" TotalTime="356" DiscNumber="0" TrackNumber="0"
+           Year="2020" AverageBpm="140.00" DateAdded="2021-06-10" BitRate="320"
+           SampleRate="44100" Comments="" PlayCount="22" Rating="0"
+           Location="file://localhost/Users/test/Music/Charlotte_de_Witte_Doppler.mp3"
+           Remixer="" Tonality="Am" Label="KNTXT" Mix="">
+      <TEMPO Inizio="0.000" Bpm="140.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="Intro" Type="0" Start="0.000" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="Drop 1" Type="0" Start="64.000" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="Break" Type="0" Start="128.000" Num="2" Red="200" Green="100" Blue="50"/>
+      <POSITION_MARK Name="Drop 2" Type="0" Start="192.000" Num="3" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="4" Name="Blah Blah Blah (Extended Mix)" Artist="Armin van Buuren"
+           Composer="" Album="Balance" Grouping="" Genre="Trance"
+           Kind="FLAC File" Size="45678901" TotalTime="298" DiscNumber="0" TrackNumber="0"
+           Year="2018" AverageBpm="138.00" DateAdded="2019-05-21" BitRate="1000"
+           SampleRate="44100" Comments="" PlayCount="18" Rating="0"
+           Location="file://localhost/Users/test/Music/Trance/Armin%20van%20Buuren%20-%20Blah%20Blah%20Blah.flac"
+           Remixer="" Tonality="Eb" Label="Armada" Mix="">
+      <TEMPO Inizio="0.087" Bpm="138.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="5" Name="In the Morning (Extended Mix)" Artist="ZHU"
+           Composer="" Album="Generationwhy" Grouping="" Genre="Deep House"
+           Kind="WAV File" Size="47272340" TotalTime="267" DiscNumber="0" TrackNumber="0"
+           Year="2016" AverageBpm="123.00" DateAdded="2019-05-25" BitRate="1411"
+           SampleRate="44100" Comments="" PlayCount="16" Rating="0"
+           Location="file://localhost/Users/test/Music/Deep%20House/ZHU_In_the_Morning.wav"
+           Remixer="" Tonality="Bbm" Label="Mind of a Genius" Mix="">
+      <TEMPO Inizio="0.101" Bpm="123.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="32.000" Num="-1"/>
+    </TRACK>
+    <TRACK TrackID="6" Name="Losing It (Original Mix)" Artist="Fisher"
+           Composer="" Album="" Grouping="" Genre="Tech House"
+           Kind="WAV File" Size="38456789" TotalTime="243" DiscNumber="0" TrackNumber="0"
+           Year="2018" AverageBpm="126.00" DateAdded="2020-08-15" BitRate="1411"
+           SampleRate="44100" Comments="Festival banger" PlayCount="64" Rating="255"
+           Location="file://localhost/Users/test/Music/Tech%20House/Fisher_Losing_It.wav"
+           Remixer="" Tonality="Dm" Label="Catch &amp; Release" Mix="">
+      <TEMPO Inizio="0.002" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="Vocal" Type="0" Start="15.238" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="Drop" Type="0" Start="45.714" Num="1" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="7" Name="Latch (feat. Sam Smith)" Artist="Disclosure"
+           Composer="" Album="Settle" Grouping="" Genre="UK Garage"
+           Kind="MP3 File" Size="8765432" TotalTime="258" DiscNumber="1" TrackNumber="3"
+           Year="2012" AverageBpm="122.00" DateAdded="2019-12-01" BitRate="320"
+           SampleRate="44100" Comments="" PlayCount="0" Rating="0"
+           Location="file://localhost/Users/test/Music/Disclosure_Latch.mp3"
+           Remixer="" Tonality="F#m" Label="PMR Records" Mix="">
+      <TEMPO Inizio="0.049" Bpm="122.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="8" Name="Sun &amp; Moon (Club Mix)" Artist="Above &amp; Beyond"
+           Composer="" Album="Group Therapy" Grouping="" Genre="Trance"
+           Kind="AIFF File" Size="67890123" TotalTime="452" DiscNumber="0" TrackNumber="0"
+           Year="2011" AverageBpm="135.00" DateAdded="2020-02-28" BitRate="1411"
+           SampleRate="44100" Comments="" PlayCount="28" Rating="0"
+           Location="file://localhost/Users/test/Music/Trance/Above_Beyond_Sun_Moon.aiff"
+           Remixer="" Tonality="Db" Label="Anjunabeats" Mix="">
+      <TEMPO Inizio="0.022" Bpm="135.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="Build" Type="0" Start="88.889" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="Drop" Type="0" Start="177.778" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="266.667" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="355.556" Num="-1"/>
+    </TRACK>
+    <TRACK TrackID="9" Name="Gravity (Original Mix)" Artist="Boris Brejcha"
+           Composer="" Album="" Grouping="" Genre="Minimal Techno"
+           Kind="FLAC File" Size="52341876" TotalTime="412" DiscNumber="0" TrackNumber="0"
+           Year="2019" AverageBpm="126.00" DateAdded="2021-01-10" BitRate="900"
+           SampleRate="44100" Comments="" PlayCount="12" Rating="0"
+           Location="file://localhost/Users/test/Music/Boris_Brejcha_Gravity.flac"
+           Remixer="" Tonality="Em" Label="Fckng Serious" Mix="">
+      <TEMPO Inizio="0.000" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="Start" Type="0" Start="0.000" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+    <TRACK TrackID="10" Name="Exhale (Original Mix)" Artist="Amelie Lens"
+           Composer="" Album="" Grouping="" Genre="Hard Techno"
+           Kind="WAV File" Size="43219876" TotalTime="318" DiscNumber="0" TrackNumber="0"
+           Year="2020" AverageBpm="145.00" DateAdded="2021-09-05" BitRate="1411"
+           SampleRate="44100" Comments="" PlayCount="41" Rating="0"
+           Location="file://localhost/Users/test/Music/Techno/Amelie_Lens_Exhale.wav"
+           Remixer="" Tonality="Abm" Label="Lenske" Mix="">
+      <TEMPO Inizio="0.001" Bpm="145.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="0.001" Num="-1"/>
+      <POSITION_MARK Name="Peak" Type="0" Start="124.138" Num="0" Red="255" Green="0" Blue="0"/>
+    </TRACK>
+    <TRACK TrackID="11" Name="Brightest Lights (Original Mix)" Artist="Lane 8"
+           Composer="" Album="Brightest Lights" Grouping="" Genre="Deep House"
+           Kind="AIFF File" Size="58901234" TotalTime="389" DiscNumber="0" TrackNumber="1"
+           Year="2020" AverageBpm="120.00" DateAdded="2020-11-20" BitRate="1411"
+           SampleRate="44100" Comments="" PlayCount="9" Rating="0"
+           Location="file://localhost/Users/test/Music/Lane_8_Brightest_Lights.aiff"
+           Remixer="" Tonality="Cm" Label="This Never Happened" Mix="">
+      <TEMPO Inizio="0.125" Bpm="120.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="12" Name="Things We Might Have Said (Original Mix)" Artist="Reinier Zonneveld"
+           Composer="" Album="" Grouping="" Genre="Techno"
+           Kind="WAV File" Size="51234567" TotalTime="367" DiscNumber="0" TrackNumber="0"
+           Year="2021" AverageBpm="140.00" DateAdded="2022-03-15" BitRate="1411"
+           SampleRate="44100" Comments="" PlayCount="15" Rating="0"
+           Location="file://localhost/Users/test/Music/Reinier_Zonneveld_Things.wav"
+           Remixer="" Tonality="Bm" Label="Filth on Acid" Mix="">
+      <TEMPO Inizio="0.000" Bpm="140.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="Intro" Type="0" Start="0.000" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="Build" Type="0" Start="85.714" Num="1" Red="255" Green="165" Blue="0"/>
+      <POSITION_MARK Name="Drop" Type="0" Start="128.571" Num="2" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="" Type="0" Start="214.286" Num="-1"/>
+      <POSITION_MARK Name="" Type="0" Start="300.000" Num="-1"/>
+    </TRACK>
+    <TRACK TrackID="13" Name="Opus (Original Mix)" Artist="Eric Prydz"
+           Composer="" Album="" Grouping="" Genre="Progressive House"
+           Kind="WAV File" Size="78901234" TotalTime="542" DiscNumber="0" TrackNumber="0"
+           Year="2016" AverageBpm="126.00" DateAdded="2019-06-30" BitRate="1411"
+           SampleRate="44100" Comments="Epic buildup" PlayCount="38" Rating="255"
+           Location="file://localhost/Users/test/Music/Eric%20Prydz/Opus%20(Original%20Mix).wav"
+           Remixer="" Tonality="Ab" Label="Pryda Recordings" Mix="">
+      <TEMPO Inizio="0.015" Bpm="126.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="Start" Type="0" Start="0.015" Num="0" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="Build Start" Type="0" Start="142.857" Num="1" Red="40" Green="226" Blue="20"/>
+      <POSITION_MARK Name="THE Drop" Type="0" Start="285.714" Num="2" Red="255" Green="0" Blue="0"/>
+      <POSITION_MARK Name="" Type="0" Start="428.571" Num="-1"/>
+    </TRACK>
+    <TRACK TrackID="14" Name="Confronted (Original Mix)" Artist="Pan-Pot"
+           Composer="" Album="" Grouping="" Genre="Techno"
+           Kind="FLAC File" Size="48765432" TotalTime="385" DiscNumber="0" TrackNumber="0"
+           Year="2015" AverageBpm="128.00" DateAdded="2020-04-12" BitRate="950"
+           SampleRate="44100" Comments="" PlayCount="7" Rating="0"
+           Location="file://localhost/Users/test/Music/Pan-Pot_Confronted.flac"
+           Remixer="" Tonality="Ebm" Label="Second State" Mix="">
+      <TEMPO Inizio="0.003" Bpm="128.00" Metro="4/4" Battito="1"/>
+    </TRACK>
+    <TRACK TrackID="15" Name="Conjure Superstar (Original Mix)" Artist="Maceo Plex"
+           Composer="" Album="" Grouping="" Genre="Techno"
+           Kind="AIFF File" Size="55432198" TotalTime="398" DiscNumber="0" TrackNumber="0"
+           Year="2017" AverageBpm="124.00" DateAdded="2019-08-22" BitRate="1411"
+           SampleRate="44100" Comments="" PlayCount="19" Rating="0"
+           Location="file://localhost/Users/test/Music/Maceo_Plex_Conjure_Superstar.aiff"
+           Remixer="" Tonality="F" Label="Ellum Audio" Mix="">
+      <TEMPO Inizio="0.048" Bpm="124.00" Metro="4/4" Battito="1"/>
+      <POSITION_MARK Name="" Type="0" Start="48.387" Num="-1"/>
+      <POSITION_MARK Name="Main" Type="0" Start="96.774" Num="0" Red="40" Green="226" Blue="20"/>
+    </TRACK>
+  </COLLECTION>
+  <PLAYLISTS>
+    <NODE Type="0" Name="ROOT" Count="5">
+      <NODE Name="Favorites" Type="1" KeyType="0" Entries="3">
+        <TRACK Key="1"/>
+        <TRACK Key="6"/>
+        <TRACK Key="13"/>
+      </NODE>
+      <NODE Name="Genres" Type="0" Count="3">
+        <NODE Name="Techno Tracks" Type="1" KeyType="0" Entries="6">
+          <TRACK Key="2"/>
+          <TRACK Key="3"/>
+          <TRACK Key="10"/>
+          <TRACK Key="12"/>
+          <TRACK Key="14"/>
+          <TRACK Key="15"/>
+        </NODE>
+        <NODE Name="House Tracks" Type="1" KeyType="0" Entries="4">
+          <TRACK Key="5"/>
+          <TRACK Key="6"/>
+          <TRACK Key="7"/>
+          <TRACK Key="11"/>
+        </NODE>
+        <NODE Name="Trance Collection" Type="0" Count="1">
+          <NODE Name="Main Room" Type="1" KeyType="0" Entries="3">
+            <TRACK Key="4"/>
+            <TRACK Key="8"/>
+            <TRACK Key="1"/>
+          </NODE>
+        </NODE>
+      </NODE>
+      <NODE Name="Empty Playlist" Type="1" KeyType="0" Entries="0">
+      </NODE>
+      <NODE Name="High Energy" Type="1" KeyType="0" Entries="4">
+        <TRACK Key="3"/>
+        <TRACK Key="10"/>
+        <TRACK Key="6"/>
+        <TRACK Key="12"/>
+      </NODE>
+      <NODE Name="Chill Vibes" Type="1" KeyType="0" Entries="3">
+        <TRACK Key="5"/>
+        <TRACK Key="9"/>
+        <TRACK Key="11"/>
+      </NODE>
+    </NODE>
+  </PLAYLISTS>
+</DJ_PLAYLISTS>
